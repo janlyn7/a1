@@ -12,12 +12,11 @@ $quotes = array ('Live long, and prosper.',
 <!DOCTYPE html>
 <html>
 
-
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" type="image/png" href="JL_logo.jpg"> 
+    <link rel="icon" type="image/png" href="JL_logo.png"> 
     <link href='aboutme.css' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Arima+Madurai' rel='stylesheet' type='text/css'>
+
     <link href='https://fonts.googleapis.com/css?family=Cormorant+Infant' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
