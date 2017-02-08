@@ -1,5 +1,30 @@
 body {
     background-image: url("images/foggy_birds.png");
-    background-size: 300px 300px;
-    background-color: white;
+    background-size: 250px 250px;
  }
+
+
+#about_content {
+  background-color: #eeeeee;
+  width: 850px;
+  padding: 20px 50px 50px 50px;
+  align-content: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 500px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+h2, h4 {
+   font-family: 'Cormorant Infant', serif;
+   text-align: center;
+}
+
+p {
+   padding: 0px 80px 0px 100px;
+   font-family: 'Open Sans';
+   font-size: 14px;
+}
