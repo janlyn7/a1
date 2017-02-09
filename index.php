@@ -27,7 +27,7 @@ $quotes = array ( 'I have not failed. I\'ve just found 10,000 ways that won\'t w
     <div class="container" id="about_content">
 
     	 <h2>Janine Lyn</h2>
-         <img src="images/janine.jpg" title="Ancient Roman Road, Sierra de Gredos, Spain, 2000">
+         <img src="images/janine.jpg" title="Ancient Roman Road, Sierra de Gredos, Spain, 2000" alt="image">
 
 	 <br/><br/>
 
