@@ -1,8 +1,7 @@
 body {
     background-image: url("images/foggy_birds.png");
     background-size: 250px 250px;
- }
-
+}
 
 #about_content {
   background-color: #eeeeee;
@@ -23,8 +22,16 @@ h2, h4 {
    text-align: center;
 }
 
-p {
+#about_me {
    padding: 0px 80px 0px 100px;
    font-family: 'Open Sans';
    font-size: 14px;
+   text-align: justify;
+}
+
+#quote {
+   padding: 0px 120px 0px 130px;
+   font-family: 'Open Sans';
+   font-size: 14px;
+   text-align: center;
 }
